@@ -1,2 +1,2 @@
 # sorting
-sortings
+sortings are made quickly
